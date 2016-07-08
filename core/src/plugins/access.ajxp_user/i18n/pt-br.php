@@ -20,7 +20,7 @@
  */
 $mess=array(
 "title"=> "Minha conta",
-"desc" => "Gerenciar minhas preferências de conta, catálogo de endereços, elementos compartilhados, etc.",
+"desc" => "Gerenciar minhas preferências de conta, elementos compartilhados, etc.",
 "1" => "Catálogo de endereços",
 "2" => "Pastas compartilhadas",
 "3" => "Arquivos compartilhados",
