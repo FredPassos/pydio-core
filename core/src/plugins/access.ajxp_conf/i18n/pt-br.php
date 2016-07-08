@@ -18,6 +18,7 @@
 *
 * The latest code can be found at <http://pyd.io/>.
 */
+
 $mess=array(
 "1" => "Dados de Configuração",
 "2" => "Usuários",
@@ -114,8 +115,8 @@ $mess=array(
 "92" => "Criar um novo modelo",
 "93" => "Editar",
 "94" => "Editar vários",
-"95" => "Escolha uma etiqueta e um controlador para acessar aos dados (selecione todas as secções de campos obrigatórios, pode passar com o mouse sobre as etiquetas das mesmas para obter mais informações).",
-"96" => "Uma vez que uma etiqueta e um controlador estejam seleccionados, habilite os campos que pretende preencher no modelo usando as caixas de selecção. Os outros campos serão deixados para o usuário. Pode ativar alguns campos e deixa-los vazios, caso pretenda ocultar os mesmos dos usuários.",
+"95" => "Escolha uma etiqueta e um controlador para acessar aos dados (selecione todas as seções de campos obrigatórios, pode passar com o mouse sobre as etiquetas das mesmas para obter mais informações).",
+"96" => "Uma vez que uma etiqueta e um controlador estejam seleccionados, habilite os campos que pretende preencher no modelo usando as caixas de seleção. Os outros campos serão deixados para o usuário. Pode ativar alguns campos e deixa-los vazios, caso pretenda ocultar os mesmos dos usuários.",
 "repository_access_key" => "A",
 "97" => "Opções do Plugin atualizadas com sucesso",
 "98" => "Configurações do Core",

@@ -18,7 +18,8 @@
  *
  * The latest code can be found at <http://pyd.io/>.
  */
+
 $mess=array(
 "Admin Driver" => "Controlador Admin",
-"Access Pydio configuration data." => "Acesso aos dados de configuração do Pydio.",
+"Access Pydio configuration data." => "Acesso aos dados de configuração da APPLICATION_TITLE.",
 );
