@@ -21,7 +21,7 @@
 $mess = array(
 "1" => "E-mail enviado com sucesso para %s usuário(s)",
 "2" => "Nenhum endereço encontrado para enviar o e-mail!",
-"3" => "Nenhum serviço de e-mail configurado para enviar e-mails, favor contactar o administrador",
+"3" => "Nenhum serviço de e-mail configurado para enviar e-mails, favor contatar o administrador",
 "4" => "De",
 "5" => "Para",
 "6" => "Assunto",
