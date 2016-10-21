@@ -1,23 +1,23 @@
 <?php
 /*
-* Copyright 2007-2013 Charles du Jeu - Abstrium SAS <team (at) pyd.io>
-* This file is part of Pydio.
-*
-* Pydio is free software: you can redistribute it and/or modify
-* it under the terms of the GNU Affero General Public License as published by
-* the Free Software Foundation, either version 3 of the License, or
-* (at your option) any later version.
-*
-* Pydio is distributed in the hope that it will be useful,
-* but WITHOUT ANY WARRANTY; without even the implied warranty of
-* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-* GNU Affero General Public License for more details.
-*
-* You should have received a copy of the GNU Affero General Public License
-* along with Pydio.  If not, see <http://www.gnu.org/licenses/>.
-*
-* The latest code can be found at <http://pyd.io/>.
-*/
+ * Copyright 2007-2013 Charles du Jeu - Abstrium SAS <team (at) pyd.io>
+ * This file is part of Pydio.
+ *
+ * Pydio is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * Pydio is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with Pydio.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ * The latest code can be found at <https://pydio.com>.
+ */
 $mess=array(
 "1" => "Dados de Configuração",
 "2" => "Usuários",
@@ -73,7 +73,7 @@ $mess=array(
 "52" => "Área de Trabalho criada com sucesso! Pode agora adicionar algumas 'Origens de Metadados' para melhorar os conteúdos, adicionar Indexação automática, etc",
 "53" => "Erro ao tentar editar Área de Trabalho",
 "54" => "Área de Trabalho editada com sucesso",
-"55" => "AVISO: No momento apenas uma instância de cada plugin meta pode ser adicionado.",
+"55" => "Aviso, no momento apenas uma instância de cada plugin meta pode ser adicionado.",
 "56" => "Adicionada origem meta com sucesso",
 "57" => "Apagada origem meta com sucesso",
 "58" => "Origem meta editada com sucesso",
@@ -182,4 +182,13 @@ $mess=array(
 "158" => "Compartilhado", // user type shared
 "159" => "Convidado",
 "160" => "Grupo criado com sucesso",
+"161" => "You are attempting to move yourself inside a group, and you will loose super-admininistrative rights. Please login as another user if you really want to do that. Aborting.",
+"162" => "You are not authorized to update user %s",
+"163" => "Roles reordered for user %s",
+"164" => "Successfully updated roles",
+"165" => "Successfully saved user preferences",
+"166" => "Successfully set lock (%1) on user (%2)",
+"167" => "Successfully unlocked user (%s)",
+"168" => "%1 users were moved to group %2",
+"169" => "No users were moved, there must have been something wrong!",
 );

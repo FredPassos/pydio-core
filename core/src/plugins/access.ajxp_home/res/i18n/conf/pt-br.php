@@ -16,7 +16,7 @@
  * You should have received a copy of the GNU Affero General Public License
  * along with Pydio.  If not, see <http://www.gnu.org/licenses/>.
  *
- * The latest code can be found at <http://pyd.io/>.
+ * The latest code can be found at <https://pydio.com>.
  */
 $mess=array(
 "Welcome Page"=> "Página de Boas-vindas",
@@ -33,4 +33,8 @@ $mess=array(
 "URL of the windows sync application" => "URL do APPLICATION_TITLE Sync para Windows",
 "Mac PydioSync URL" => "URL do APPLICATION_TITLE Sync para Mac",
 "URL of the mac sync application" => "URL do APPLICATION_TITLE Sync para Mac",
+"Enable Global Search" => "Enable Global Search",
+"Enable cross-workspaces search form on home page" => "Enable cross-workspaces search form on home page",
+"Display Server QRCode"=>"Display Server QRCode",    
+"Let users connect easily to the latest mobile applications by displaying a QRCode"=>"Let users connect easily to the latest mobile applications by displaying a QRCode",    
 );
